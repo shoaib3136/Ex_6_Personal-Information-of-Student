@@ -26,14 +26,6 @@ Step 7: Save and run the application.
 
 
 ## Program:
- ```
-/*
-Program to develop personal information for student
-Developed by: Shaik Shoaib Nawaz
-RegisterNumber: 212222240094
-*/
-```
-
 ## MainActivity.java:
 ```
 package com.example.exp6;
